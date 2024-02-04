@@ -1,23 +1,12 @@
-# SignalR with SqlTableDependency in Asp.Net Core
+# SignalR con SqlTableDependency en Asp.Net Core
 
-This tutorials is about <i>pushing database changes to the UI dashboard</i> using <b>Signal R</b> with <b>Sql Table Dependency</b>. 
+Este ejercico trata sobre <i>impulsar cambios de la base de datos al panel de la interfaz de usuario</i> usando <b>Signal R</b> con <b>Dependencia de tabla SQL</b>. 
 
-<i>SqlTableDependency</i> is a high-level C# component used to audit, monitor and receive notifications on SQL Server's record table changes. 
-For any record table change, as <i>insert</i>, <i>update</i> or <i>delete</i> operation, a notification containing values for the record changed is delivered to SqlTableDependency.
+<i>SqlTableDependency</i> es un componente C# de alto nivel que se utiliza para auditar, monitorear y recibir notificaciones sobre los cambios en la tabla de registros de SQL Server.
+Para cualquier cambio en la tabla de registros, como operación <i>insertar</i>, <i>actualizar</i> o <i>eliminar</i>, se envía a SqlTableDependency una notificación que contiene los valores para el registro modificado.
 
-We have used <a href="https://www.chartjs.org/" target="_blank">Chart.js</a> for dashboard
+Se a utilizado <a href="https://www.chartjs.org/" target="_blank">Chart.js</a> para el panel
 
-Database scripts are placed inside the project solution.
+Mire este tutorial (SignalR con SqlTableDependency en Asp.Net Core) en Youtube</a></br> <a href="https://youtu.be/3SJrag0UiTY">
 
-<a href="https://youtu.be/3SJrag0UiTY">Watch this (SignalR with SqlTableDependency in Asp.Net Core) tutorial on Youtube</a></br>
-<a href="https://youtu.be/_RepoZyMtL4">Watch SignalR Basics on Youtube</a></br>
 
-Follow us on <br/>
-<a href="https://twitter.com/Skynetechs">twitter</a> <br/>
-<a href="https://www.facebook.com/Skynetfor.net">facebook</a>
-
-<br/>
-<a href="https://github.com/Skynet-Demos">All Skynet-Demo Git Repos</a> <br/>
-
-<br>
-<a href="https://www.buymeacoffee.com/skynetechs">Buy me a Coffee</a>
