@@ -7,6 +7,6 @@ Para cualquier cambio en la tabla de registros, como operación <i>insertar</i>,
 
 Se a utilizado <a href="https://www.chartjs.org/" target="_blank">Chart.js</a> para el panel
 
-Mire este tutorial (SignalR con SqlTableDependency en Asp.Net Core) en Youtube</a></br> <a href="https://youtu.be/3SJrag0UiTY">
+Mire este tutorial (SignalR con SqlTableDependency en Asp.Net Core) en <a href="https://youtu.be/3SJrag0UiTY">Youtube</a></br>
 
 
